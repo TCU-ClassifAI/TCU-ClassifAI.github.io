@@ -1,2 +1,0 @@
-neoteroi-mkdocs
-mkdocs-material
